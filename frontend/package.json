@@ -1,4 +1,6 @@
 {
+  "name": "frontend",
+  "version": "1.0.0",
   "dependencies": {
     "body-parser": "^2.2.2",
     "cors": "^2.8.6",
